@@ -1,9 +1,12 @@
 # Mkhuseli Mditshwa's Portfolio
 
-![Mkhuseli](https://drive.google.com/uc?export=view&id=1029Y4b9_Ovg_mDBwZwvjn2jFtrNrvabO)
-
-
-Welcome to my personal portfolio! This website showcases my work as a developer, including projects I've worked on, my skills, and ways to get in touch with me.
+<div style="display: flex; align-items: center; background-color: #f0f0f0; padding: 20px;">
+  <img src="https://drive.google.com/uc?export=view&id=1029Y4b9_Ovg_mDBwZwvjn2jFtrNrvabO" alt="Mkhuseli" style="border-radius: 50%; width: 150px; margin-right: 20px;">
+  <div>
+    <h1>Mkhuseli Mditshwa's Portfolio</h1>
+    <p>Welcome to my personal portfolio! This website showcases my work as a developer, including projects I've worked on, my skills, and ways to get in touch with me.</p>
+  </div>
+</div>
 
 ## About Me
 
