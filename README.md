@@ -1,4 +1,4 @@
-# [Mkhuseli Mditshwa]'s Portfolio
+# Mkhuseli Mditshwa's Portfolio
 
 ![Mkhuseli](https://drive.google.com/uc?export=view&id=1029Y4b9_Ovg_mDBwZwvjn2jFtrNrvabO)
 
@@ -7,7 +7,7 @@ Welcome to my personal portfolio! This website showcases my work as a developer,
 
 ## About Me
 
-Hi! I'm **[Your Name]**, a software developer with experience in web and mobile applications. I'm passionate about building creative, user-friendly solutions, and always eager to learn new technologies.
+Hi! I'm **Mkhuseli Mditshwa**, a software developer with experience in web and mobile applications. I'm passionate about building creative, user-friendly solutions, and always eager to learn new technologies.
 
 Here are a few key skills I have:
 - **Programming Languages**: JavaScript, Python, PHP, Node.js, ASP.NET
